@@ -1,1 +1,1 @@
-Workings of the tasks on shell basics
+Tasks on shell basics
